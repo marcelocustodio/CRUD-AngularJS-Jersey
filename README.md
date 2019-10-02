@@ -1,4 +1,4 @@
-# CRUD de AngulaJS com Jersey - Listagem de usuários
+# CRUD de AngularJS com Jersey - Listagem de usuários
 
 ## Backend: JEE com Jersey 
 
